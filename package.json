@@ -1,6 +1,6 @@
 {
   "name": "dereks-test-of-a-thing-that-probably-wont-work-anyway",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "p5-wrapper",
   "main": "lib/P5Wrapper.js",
   "author": {

@@ -1,7 +1,7 @@
 import React from 'react';
 import p5 from 'p5';
 
-export default class P5Wrapper extends React.Component {
+export default class P5Wrapper extends React.PureComponent {
 
   componentDidMount() {
     this.canvas = new p5(this.props.sketch, this.wrapper);
